@@ -1,0 +1,22 @@
+{
+  "left":{
+    "inner":"999999",
+    "outer":"666666",
+    "base":"ffffff"
+  },
+  "down":{
+    "inner":"485e84",
+    "outer":"343545",
+    "base":"ffffff"
+  },
+  "up":{
+    "inner":"999999",
+    "outer":"666666",
+    "base":"ffffff"
+  },
+  "right":{
+    "inner":"485e84",
+    "outer":"343545",
+    "base":"ffffff"
+  }
+}

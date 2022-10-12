@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="poisonOverlay.atf">
+    <SubTexture name="poison0000" x="0" y="0" width="512" height="360"/>
+</TextureAtlas>

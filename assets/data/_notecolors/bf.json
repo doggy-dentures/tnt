@@ -1,0 +1,22 @@
+{
+  "left":{
+    "inner":"ff2d32",
+    "outer":"ab164a",
+    "base":"ffffff"
+  },
+  "down":{
+    "inner":"00e9e9",
+    "outer":"50a5eb",
+    "base":"ffffff"
+  },
+  "up":{
+    "inner":"cdcdcd",
+    "outer":"777777",
+    "base":"ffffff"
+  },
+  "right":{
+    "inner":"0066cc",
+    "outer":"0f1b82",
+    "base":"ffffff"
+  }
+}

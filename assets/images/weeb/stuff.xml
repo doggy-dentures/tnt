@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="texture.png" width="1851" height="996">
+  <SubTexture name="BG girls group0000" x="4" y="173" width="434" height="82" frameX="-9" frameY="-10" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0001" x="4" y="173" width="434" height="82" frameX="-9" frameY="-10" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0002" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0003" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0004" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0005" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0006" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0007" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0008" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0009" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0010" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0011" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0012" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0013" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0014" x="446" y="4" width="81" height="433" rotated="true" frameX="-8" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0015" x="446" y="4" width="81" height="433" rotated="true" frameX="-8" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0016" x="4" y="263" width="433" height="82" frameX="-9" frameY="-10" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0017" x="4" y="263" width="433" height="82" frameX="-9" frameY="-10" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0018" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0019" x="4" y="531" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0020" x="4" y="442" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0021" x="4" y="442" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0022" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0023" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0024" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0025" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0026" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0027" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0028" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="BG girls group0029" x="4" y="353" width="433" height="81" frameX="-9" frameY="-11" frameWidth="450" frameHeight="96" />
+  <SubTexture name="PETALS ALL0000" x="1794" y="70" width="50" height="125" rotated="true" frameX="-107" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0001" x="1794" y="70" width="50" height="125" rotated="true" frameX="-107" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0002" x="1707" y="788" width="56" height="123" rotated="true" frameX="-109" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0003" x="1707" y="788" width="56" height="123" rotated="true" frameX="-109" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0004" x="1787" y="244" width="56" height="118" rotated="true" frameX="-109" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0005" x="1707" y="919" width="118" height="56" frameX="-109" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0006" x="1359" y="929" width="121" height="63" frameX="-106" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0007" x="1359" y="929" width="121" height="63" frameX="-106" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0008" x="1699" y="553" width="63" height="113" rotated="true" frameX="-106" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0009" x="1734" y="4" width="113" height="58" frameX="-106" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0010" x="1723" y="116" width="63" height="120" rotated="true" frameX="-99" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0011" x="1716" y="268" width="63" height="120" rotated="true" frameX="-99" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0012" x="1717" y="396" width="63" height="111" rotated="true" frameX="-99" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0013" x="1282" y="794" width="123" height="62" frameX="-87" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0014" x="1282" y="794" width="123" height="62" frameX="-87" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0015" x="1228" y="929" width="123" height="62" frameX="-87" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0016" x="1621" y="553" width="70" height="130" rotated="true" frameX="-71" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0017" x="979" y="909" width="130" height="62" frameX="-71" frameY="-33" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0018" x="979" y="909" width="130" height="62" frameX="-71" frameY="-33" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0019" x="841" y="909" width="130" height="62" frameX="-71" frameY="-33" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0020" x="1601" y="816" width="98" height="149" rotated="true" frameX="-67" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0021" x="1611" y="396" width="98" height="149" rotated="true" frameX="-67" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0022" x="1611" y="396" width="98" height="149" rotated="true" frameX="-67" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0023" x="1531" y="4" width="98" height="149" rotated="true" frameX="-67" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0024" x="323" y="4" width="106" height="139" rotated="true" frameX="-64" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0025" x="1409" y="207" width="106" height="181" rotated="true" frameX="-22" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0026" x="1417" y="4" width="106" height="181" rotated="true" frameX="-22" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0027" x="1414" y="677" width="106" height="181" rotated="true" frameX="-22" frameY="-5" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0028" x="1226" y="560" width="181" height="109" frameX="-22" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0029" x="1226" y="677" width="180" height="109" frameX="-18" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0030" x="1300" y="4" width="109" height="195" rotated="true" frameX="-18" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0031" x="1523" y="193" width="87" height="195" rotated="true" frameX="-18" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0032" x="634" y="909" width="199" height="78" frameX="-18" frameY="-17" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0033" x="1415" y="396" width="91" height="205" rotated="true" frameX="-12" frameY="-17" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0034" x="1514" y="396" width="89" height="205" rotated="true" frameX="-12" frameY="-19" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0035" x="1514" y="396" width="89" height="205" rotated="true" frameX="-12" frameY="-19" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0036" x="1528" y="609" width="85" height="199" rotated="true" frameX="-12" frameY="-23" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0037" x="211" y="620" width="206" height="100" frameX="-5" frameY="-23" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0038" x="1196" y="452" width="206" height="100" frameX="-5" frameY="-23" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0039" x="1196" y="452" width="206" height="100" frameX="-5" frameY="-23" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0040" x="1196" y="339" width="201" height="105" frameX="-5" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0041" x="1196" y="214" width="205" height="117" frameX="-1" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0042" x="1196" y="214" width="205" height="117" frameX="-1" frameY="-18" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0043" x="1016" y="642" width="202" height="127" frameX="-1" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0044" x="1165" y="4" width="127" height="202" rotated="true" frameX="-1" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0045" x="445" y="445" width="203" height="133" frameX="-0" frameY="-8" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0046" x="445" y="586" width="199" height="135" frameX="-0" frameY="-6" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0047" x="4" y="620" width="199" height="135" frameX="-0" frameY="-6" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0048" x="535" y="325" width="104" height="108" frameX="-95" frameY="-6" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0049" x="1637" y="4" width="89" height="104" rotated="true" frameX="-95" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0050" x="1621" y="691" width="97" height="89" frameX="-95" frameY="-25" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0051" x="1618" y="161" width="97" height="99" frameX="-95" frameY="-15" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0052" x="1618" y="268" width="90" height="103" frameX="-102" frameY="-15" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0053" x="1618" y="268" width="90" height="103" frameX="-102" frameY="-15" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0054" x="1117" y="909" width="103" height="79" rotated="true" frameX="-102" frameY="-15" frameWidth="311" frameHeight="161" />
+  <SubTexture name="PETALS ALL0055" x="1794" y="70" width="50" height="125" rotated="true" frameX="-107" frameY="-13" frameWidth="311" frameHeight="161" />
+  <SubTexture name="weebSchool" x="652" y="644" width="311" height="75" frameX="-0" frameY="-31" frameWidth="311" frameHeight="161" />
+  <SubTexture name="weebSky" x="4" y="4" width="311" height="161" frameX="-0" frameY="-0" frameWidth="311" frameHeight="161" />
+  <SubTexture name="weebStreet" x="1282" y="866" width="311" height="55" frameX="-0" frameY="-106" frameWidth="311" frameHeight="161" />
+  <SubTexture name="weebTrees0000" x="805" y="4" width="82" height="312" rotated="true" frameX="-101" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0001" x="4" y="853" width="312" height="82" frameX="-101" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0002" x="625" y="4" width="82" height="312" rotated="true" frameX="-101" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0003" x="535" y="4" width="82" height="313" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0004" x="895" y="4" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0005" x="715" y="4" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0006" x="746" y="324" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0007" x="926" y="324" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0008" x="644" y="729" width="312" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0009" x="836" y="324" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0010" x="324" y="819" width="312" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0011" x="963" y="819" width="311" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0012" x="985" y="4" width="82" height="311" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0013" x="644" y="819" width="311" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0014" x="1106" y="323" width="82" height="311" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0015" x="1075" y="4" width="82" height="311" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0016" x="1016" y="323" width="82" height="311" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0017" x="324" y="729" width="312" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0018" x="4" y="763" width="312" height="82" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="weebTrees0019" x="656" y="324" width="82" height="312" rotated="true" frameX="-100" frameY="-176" frameWidth="512" frameHeight="512" />
+  <SubTexture name="treesBack" x="324" y="909" width="302" height="50" frameX="-9" frameY="-59" frameWidth="311" frameHeight="161" />
+</TextureAtlas>

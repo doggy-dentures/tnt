@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="coolcombos.png" width="495" height="411">
+  <SubTexture name="supercombo" x="4" y="215"  width="398" height="192" frameX="-0" frameY="-0" frameWidth="398" frameHeight="192"/>
+  <SubTexture name="ultracombo" x="4" y="4"  width="487" height="203" frameX="-0" frameY="-0" frameWidth="487" frameHeight="203"/>
+</TextureAtlas>

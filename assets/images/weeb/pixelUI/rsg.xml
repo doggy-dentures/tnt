@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="rsg.png" width="128" height="128">
+  <SubTexture name="go" x="2" y="2"  width="92" height="37" frameX="-0" frameY="-0" frameWidth="92" frameHeight="37"/>
+  <SubTexture name="ready" x="2" y="43"  width="87" height="41" frameX="-0" frameY="-0" frameWidth="87" frameHeight="41"/>
+  <SubTexture name="set" x="2" y="88"  width="80" height="37" frameX="-0" frameY="-0" frameWidth="80" frameHeight="37"/>
+</TextureAtlas>

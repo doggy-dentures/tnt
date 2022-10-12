@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stuff2.png" width="2037" height="1019">
+  <SubTexture name="glassFive0000" x="1435" y="238" width="337" height="278" rotated="true" frameX="-0" frameY="-54" frameWidth="278" frameHeight="391" />
+  <SubTexture name="glassFour0000" x="1075" y="0" width="360" height="523" rotated="true" frameX="-0" frameY="-29" frameWidth="523" frameHeight="389" />
+  <SubTexture name="glassOne0000" x="362" y="0" width="356" height="584" rotated="true" frameX="-5" frameY="-46" frameWidth="598" frameHeight="402" />
+  <SubTexture name="glassThree0000" x="0" y="0" width="362" height="609" rotated="true" frameX="-0" frameY="-29" frameWidth="609" frameHeight="391" />
+  <SubTexture name="glassTwo0000" x="718" y="0" width="357" height="546" rotated="true" frameX="-0" frameY="-29" frameWidth="546" frameHeight="386" />
+  <SubTexture name="light0000" x="1435" y="0" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0001" x="1435" y="0" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0002" x="1435" y="0" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0003" x="1435" y="0" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0004" x="1435" y="0" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0005" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0006" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0007" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0008" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0009" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0010" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0011" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0012" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0013" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="light0014" x="1435" y="119" width="523" height="119" rotated="true" frameX="-0" frameY="-0" frameWidth="119" frameHeight="523" />
+  <SubTexture name="soil0000" x="1627" y="819" width="410" height="143" frameX="-0" frameY="-21" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0001" x="1627" y="670" width="410" height="149" frameX="-0" frameY="-15" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0002" x="1627" y="516" width="410" height="154" frameX="-0" frameY="-10" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0003" x="1469" y="516" width="158" height="410" rotated="true" frameX="-0" frameY="-6" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0004" x="1309" y="523" width="160" height="410" rotated="true" frameX="-0" frameY="-4" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0005" x="1147" y="523" width="162" height="410" rotated="true" frameX="-0" frameY="-2" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0006" x="984" y="546" width="163" height="410" rotated="true" frameX="-0" frameY="-1" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0007" x="0" y="609" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0008" x="164" y="609" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0009" x="328" y="609" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0010" x="492" y="584" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0011" x="656" y="584" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0012" x="656" y="584" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0013" x="656" y="584" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+  <SubTexture name="soil0014" x="820" y="546" width="164" height="410" rotated="true" frameX="-0" frameY="-0" frameWidth="411" frameHeight="164" />
+</TextureAtlas>

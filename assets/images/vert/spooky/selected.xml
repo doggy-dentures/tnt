@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="selected.png" width="338" height="642">
+  <SubTexture name="selected" x="0" y="0"  width="338" height="642" frameX="-40" frameY="-38" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

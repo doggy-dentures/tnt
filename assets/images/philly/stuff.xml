@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="stuff.png" width="4096" height="2048">
+  <SubTexture name="street0000" x="8" y="8"  width="2001" height="862" frameX="-0" frameY="-93" frameWidth="2001" frameHeight="955"/>
+  <SubTexture name="city0000" x="2025" y="8"  width="1729" height="903" frameX="-0" frameY="-52" frameWidth="1729" frameHeight="955"/>
+  <SubTexture name="win0000" x="8" y="886"  width="1425" height="370" frameX="-112" frameY="-182" frameWidth="1729" frameHeight="955"/>
+  <SubTexture name="behindTrain0000" x="1449" y="927"  width="1167" height="568" frameX="-351" frameY="-94" frameWidth="2001" frameHeight="955"/>
+</TextureAtlas>

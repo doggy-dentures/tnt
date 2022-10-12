@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="texture.png" width="672" height="895">
+  <SubTexture name="tntlogo" x="4" y="4"  width="664" height="366" frameX="-0" frameY="-0" frameWidth="664" frameHeight="366"/>
+  <SubTexture name="enterlogo" x="4" y="378"  width="659" height="56" frameX="-0" frameY="-0" frameWidth="659" frameHeight="56"/>
+  <SubTexture name="bflogo" x="4" y="442" width="600" height="449" rotated="true"  frameX="-0" frameY="-0" frameWidth="449" frameHeight="600"/>
+</TextureAtlas>

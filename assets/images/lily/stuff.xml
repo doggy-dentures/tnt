@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="stuff.png">
+    <SubTexture name="stage0000" x="4" y="4" width="2560" height="1400"/>
+    <SubTexture name="roadfront0000" x="4" y="1412" width="2560" height="520" />
+    <SubTexture name="roadinner0000" x="2572" y="4" width="256" height="188"/>
+</TextureAtlas>

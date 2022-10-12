@@ -1,0 +1,11 @@
+{
+	"easy": [
+		{"char": "dad", "volume":0.8}
+	],
+	"normal": [
+		{"char": "dad", "volume":0.8}
+	],
+	"hard": [
+		{"char": "dad", "volume":0.8}
+	]
+}

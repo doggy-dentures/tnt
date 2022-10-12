@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="explosion2.png" width="893" height="504">
+  <SubTexture name="tile003" x="378" y="318"  width="32" height="28" frameX="-112" frameY="-114" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile007" x="170" y="4"  width="155" height="183" frameX="-61" frameY="-51" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile009" x="378" y="191"  width="109" height="119" frameX="-76" frameY="-72" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile013" x="549" y="355"  width="108" height="117" frameX="-72" frameY="-63" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile015" x="425" y="355"  width="116" height="131" frameX="-65" frameY="-54" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile019" x="171" y="360" width="155" height="133" rotated="true"  frameX="-54" frameY="-40" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile021" x="495" y="185"  width="140" height="162" frameX="-50" frameY="-36" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile025" x="495" y="4"  width="149" height="173" frameX="-45" frameY="-30" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile027" x="193" y="195" width="177" height="152" rotated="true"  frameX="-43" frameY="-27" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile031" x="4" y="196" width="181" height="156" rotated="true"  frameX="-41" frameY="-25" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile033" x="4" y="4"  width="158" height="184" frameX="-40" frameY="-23" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile037" x="333" y="4"  width="154" height="179" frameX="-45" frameY="-30" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile039" x="652" y="171"  width="155" height="158" frameX="-44" frameY="-30" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile043" x="652" y="4"  width="157" height="159" frameX="-43" frameY="-29" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile045" x="4" y="360" width="159" height="140" rotated="true"  frameX="-58" frameY="-29" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile049" x="334" y="355"  width="83" height="136" frameX="-86" frameY="-28" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile051" x="817" y="4" width="72" height="73" rotated="true"  frameX="-85" frameY="-92" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile055" x="815" y="171"  width="73" height="73" frameX="-85" frameY="-91" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile057" x="665" y="337"  width="74" height="72" frameX="-85" frameY="-92" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile061" x="665" y="417" width="73" height="74" rotated="true"  frameX="-85" frameY="-91" frameWidth="256" frameHeight="256"/>
+  <SubTexture name="tile063" x="817" y="85"  width="72" height="72" frameX="-85" frameY="-92" frameWidth="256" frameHeight="256"/>
+</TextureAtlas>

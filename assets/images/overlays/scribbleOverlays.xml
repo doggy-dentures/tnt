@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="scribbleOverlays.png">
+    <SubTexture name="scribbleOne0000" x="5" y="5" width="1280" height="720"/>
+    <SubTexture name="scribbleTwo0000" x="1295" y="5" rotated="true" width="720" height="1280"/>
+    <SubTexture name="scribbleThree0000" x="5" y="735" rotated="true" width="720" height="1280"/>
+    <SubTexture name="scribbleFour0000" x="735" y="1295" width="1280" height="720"/>
+    <SubTexture name="scribbleFive0000" x="735" y="735" width="512" height="512"/>
+</TextureAtlas>

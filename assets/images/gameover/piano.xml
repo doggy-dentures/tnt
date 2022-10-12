@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="piano.png" width="2048" height="1024">
+  <SubTexture name="pianoFall0000" x="4" y="4"  width="945" height="808" frameX="-1" frameY="-1" frameWidth="947" frameHeight="810"/>
+  <SubTexture name="pianoCrash0000" x="957" y="4"  width="998" height="675" frameX="-1" frameY="-1" frameWidth="1000" frameHeight="677"/>
+  <SubTexture name="retry0000" x="4" y="820"  width="398" height="84" frameX="-2" frameY="-1" frameWidth="402" frameHeight="86"/>
+</TextureAtlas>

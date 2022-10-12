@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="stuff.png" width="4096" height="1024">
+  <SubTexture name="outline0000" x="8" y="8"  width="2104" height="996" frameX="-0" frameY="-0" frameWidth="2104" frameHeight="996"/>
+  <SubTexture name="windowfloor0000" x="2128" y="8"  width="1037" height="295" frameX="-0" frameY="-0" frameWidth="1037" frameHeight="295"/>
+  <SubTexture name="windowback0000" x="3181" y="8"  width="594" height="394" frameX="-0" frameY="-0" frameWidth="594" frameHeight="394"/>
+  <SubTexture name="bg0000" x="3791" y="8"  width="256" height="256" frameX="-0" frameY="-0" frameWidth="256" frameHeight="256"/>
+</TextureAtlas>

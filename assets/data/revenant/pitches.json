@@ -1,0 +1,11 @@
+{
+	"easy": [
+		{"char": "atlanta", "pitchOffset":-12}
+	],
+	"normal": [
+		{"char": "atlanta", "pitchOffset":-12}
+	],
+	"hard": [
+		{"char": "atlanta", "pitchOffset":-12}
+	]
+}

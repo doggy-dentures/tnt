@@ -1,0 +1,22 @@
+{
+  "left":{
+    "inner":"c16a00",
+    "outer":"663300",
+    "base":"ffffff"
+  },
+  "down":{
+    "inner":"ff99cc",
+    "outer":"cc3399",
+    "base":"ffffff"
+  },
+  "up":{
+    "inner":"ff315a",
+    "outer":"d3002a",
+    "base":"ffffff"
+  },
+  "right":{
+    "inner":"b23cb2",
+    "outer":"660066",
+    "base":"ffffff"
+  }
+}

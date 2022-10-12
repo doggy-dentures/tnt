@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghotis.png" width="2048" height="1024">
+  <SubTexture name="herring1" x="1706" y="292" width="339" height="124" frameX="-0" frameY="-2" frameWidth="351" frameHeight="133" />
+  <SubTexture name="herring2" x="1694" y="479" width="347" height="124" frameX="-2" frameY="-5" frameWidth="351" frameHeight="133" />
+  <SubTexture name="puffer1" x="1503" y="675" width="393" height="296" frameX="-22" frameY="-15" frameWidth="450" frameHeight="320" />
+  <SubTexture name="puffer2" x="1092" y="675" width="407" height="292" frameX="-10" frameY="-13" frameWidth="450" frameHeight="320" />
+  <SubTexture name="ray1" x="1148" y="2" width="583" height="146" frameX="-1" frameY="-8" frameWidth="592" frameHeight="163" />
+  <SubTexture name="ray2" x="1148" y="152" width="573" height="136" frameX="-10" frameY="-9" frameWidth="592" frameHeight="163" />
+  <SubTexture name="shark1" x="2" y="513" width="1086" height="505" frameX="-56" frameY="-6" frameWidth="1200" frameHeight="520" />
+  <SubTexture name="shark2" x="2" y="2" width="1142" height="507" frameX="-2" frameY="-6" frameWidth="1200" frameHeight="520" />
+  <SubTexture name="tuna1" x="1148" y="292" width="554" height="183" frameX="-5" frameY="-7" frameWidth="563" frameHeight="200" />
+  <SubTexture name="tuna2" x="1148" y="479" width="542" height="192" frameX="-15" frameY="-5" frameWidth="563" frameHeight="200" />
+</TextureAtlas>
