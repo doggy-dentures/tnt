@@ -1,0 +1,1 @@
+@For %%A In (itemsBC7/*.png) Do python premult.py itemsBC7/%%~nA.png & bc7enc -g -o itemsBC7/%%~nA_tmp.png itemsBC7/%%~nA.dds && python bytes.py itemsBC7/%%~nA.dds && del itemsBC7\%%~nA_tmp.png

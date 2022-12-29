@@ -1,0 +1,1 @@
+do_bc7.bat && do_dxt1.bat && do_rgba4.bat && do_rgb5a1.bat && do_dxt5.bat

@@ -1,0 +1,17 @@
+These are the scripts I made for converting PNG files into FUNK files.
+
+NOTE: You will need to install Python 3.10 and will also need to install all of these Python libraries: numpy, Pillow, lz4
+
+A more detailed explanation of FUNK files can be found here: https://github.com/doggy-dentures/tnt/issues/1
+But the gist of it is that FUNK files load faster and use less memory than PNG files.
+Just drop your PNGs into one of the items folders and run the corresponding .bat file for the folder.
+
+FUNK files can contain one of several texture formats, each with their own use cases. They all take up less memory than PNGs.
+
+BC7 	High quality, supports transparency. 1 byte per pixel. Good for images with transparency or color gradients.
+DXT1 	Medium quality. 0.5 bytes per pixel. Good for rectangular backgrounds that don't need transparency.
+DXT5	Medium quality. 1 byte per pixel. Outclassed by BC7 but most GPUs from 2011 and older don't support BC7. Good for images with transparency on older hardware that doesn't support BC7.
+RGB5A1	Original quality, but with less color precision and each pixel is either invisible or fully opaque. 2 bytes per pixel. Good for pixel art when pixels only have transparency values of 0% or 100%.
+RGBA4	Original quality, even less color precision than RGB5A1 but fully supports transparency. 2 bytes per pixel. Good for pixel art that uses a wide range of transparency values.
+
+For reference, PNGs use 4 bytes per pixel in memory. So using FUNK files for sprites uses 8x less memory at best and 2x less memory at worst.

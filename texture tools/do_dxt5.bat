@@ -1,0 +1,1 @@
+@For %%A In (itemsDXT5/*.png) Do cuttlefish -i itemsDXT5/%%~nA.png --pre-multiply -f BC3 --quality highest -o itemsDXT5/%%~nA.pvr && python bytes.py itemsDXT5/%%~nA.pvr
